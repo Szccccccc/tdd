@@ -39,7 +39,7 @@ class NewVisitorTest(unittest.TestCase):
 
         # Satisfied , she goes back to sleep 
 
-        # self.browser.quit()
+        # self.browser.quit() 111
 
 
 if __name__ == '__main__':
